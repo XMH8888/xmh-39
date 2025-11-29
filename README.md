@@ -22,7 +22,7 @@
 - [开源核心原则](docs/principles.md)
 - [开源协作指南](docs/collaboration_guide.md)
 - [著名开源项目](docs/famous_projects.md)
-
+- [开源定义说明](docs/definition.md)
 ## 🚀 快速开始
 ```bash
 git clone https://github.com/你的用户名/OpenSourceCulture_25.git
